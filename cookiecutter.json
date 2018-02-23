@@ -1,0 +1,8 @@
+{
+  "project_name": "SamplePythonPackage",
+  "package_name": "python_package",
+  "author": "Me",
+  "version": "0.1.0",
+  "description": "Boilerplate python package",
+  "license": "MIT"
+}
