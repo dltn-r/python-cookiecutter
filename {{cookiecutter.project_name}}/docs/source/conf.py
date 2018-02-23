@@ -265,7 +265,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, '{{cookiecutter.project_name}}.tex', '{{cookiecutter.project_name}} Documentation',
-     '{{cookiecutter.name}}', 'manual'),
+     '{{cookiecutter.project_name}}', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
